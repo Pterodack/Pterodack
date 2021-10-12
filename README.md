@@ -2,7 +2,7 @@
 - 👀 I’m interested in analise of criminal issues
 - 🌱 I’m currently learning python code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me to constracting a model for prognostik desicins
+- 📫 How to reach me to constracting a model for prognose desicions
 
 <!---
 Pterodack/Pterodack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
